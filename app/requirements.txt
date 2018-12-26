@@ -1,0 +1,19 @@
+flask_restful
+flask == 1.0.2
+pillow
+json_tricks
+mysql-connector
+flask-mysqldb
+flasgger
+connexion
+flask_restless
+flask-jsonpify
+python-dotenv
+requests
+boto
+boto3
+appdirs == 1.4.3
+mysql-connector
+imagehash
+Jinja2==2.10
+MarkupSafe==1.0
